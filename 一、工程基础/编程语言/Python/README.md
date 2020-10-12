@@ -1,5 +1,5 @@
 # Python
-## [一、数据类型](一、工程基础/编程语言/Python/1_type_of_data.ipynb)
+## [一、数据类型](/1_type_of_data.ipynb)
 ### 1、标准数据结构
 - 数字
 - 字符串
