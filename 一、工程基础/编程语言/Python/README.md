@@ -15,15 +15,15 @@
 - 逻辑运算符
 - 成员运算符
 - 身份运算符
-## [二、条件循环](一、工程基础/编程语言/Python/2_Condition_loop.ipynb)
+## [二、条件循环](2_Condition_loop.ipynb)
 - if语句
 - for语句
 - while语句
-## [三、迭代](一、工程基础/编程语言/Python/3_Iteration.ipynb)
+## [三、迭代](3_Iteration.ipynb)
 - range()
 - iter()
 - zip
-## [四、函数](一、工程基础/编程语言/Python/4_function.ipynb)
+## [四、函数](4_function.ipynb)
 ### 1、函数定义
 ### 2、函数调用
 ### 3、参数传递
@@ -32,7 +32,7 @@
 - 匿名函数
 - return语句
 - 变量作用域
-## [五、类](一、工程基础/编程语言/Python/5_class.ipynb)
+## [五、类](5_class.ipynb)
 - 创建类
 - 创建实例对象
 - 访问属性
