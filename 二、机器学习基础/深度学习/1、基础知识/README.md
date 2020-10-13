@@ -56,8 +56,7 @@
 &emsp;&emsp;我们发现前面的三个ReLU在0处是不可导的，所以ELU又在PReLU的基础上进行改进解决这个问题
 
 &emsp;&emsp;公式:
-<div align=center><img width="300" height="220" src="https://github.com/ethan-sui/AI-algorithm-engineer-knowledge/blob/main/image/ELU_function.png
-"/></div>
+<div align=center><img width="300" height="220" src="https://github.com/ethan-sui/AI-algorithm-engineer-knowledge/blob/main/image/ELU_function.png"/></div>
 
 7、Maxout
 
