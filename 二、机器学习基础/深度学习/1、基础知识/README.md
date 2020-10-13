@@ -15,6 +15,13 @@
 
 &emsp;&emsp;缺点：①梯度消失，当输入为大的正数或者负数时，梯度为0，使得神经元基本不能更新；②不是零中心激活函数，输出全为正数，会导致zigzag现象；③有指数计算，计算量偏大
 
+2、tanh
+
+<div align=center><img width="300" height="220" src="https://github.com/ethan-sui/AI-algorithm-engineer-knowledge/blob/main/image/Sigmoid.png"/></div>
+
+表达式：$tanhx=\frac{(e^{x}-e^{-x})}{(e^{x}+e^{-x})}$
+
+和sigmoid类似，仅仅时尺度和范围不同，也是有饱和区，也会出现梯度消失，改进的一点是，变为了零值对称激活函数，不会出现zigzag现象，能更快收敛
 ### 损失函数
 ### 反向传播
 ### BN层
