@@ -11,6 +11,9 @@
 <div align=center><img width="500" height="300" src="https://github.com/ethan-sui/AI-algorithm-engineer-knowledge/blob/main/image/teacher-student_network.png"/></div>
 
 ### 3、高效网络结构
+- 深度可分离卷积(MobileNet)
+先通道进行卷积(depthwise)再进行点卷积(pointwise)
+参数量，计算量皆为正常卷积的$\frac{1}{N}+\frac{1}{(D_{k})^2}$
 ### 4、参数量化
 ### 5、低秩转化
 ### 6、神经架构搜索
