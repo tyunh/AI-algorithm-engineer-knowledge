@@ -8,7 +8,7 @@
 
 - 去去学习大网络的输出，比如输入1的图像，小网络要尽量输出大网络的输出，而不是只是学习输出真实标签1
 
-<div align=center><img width="700" height="120" src="https://github.com/ethan-sui/AI-algorithm-engineer-knowledge/blob/main/image/teacher-student_network.png"/></div>
+<div align=center><img width="500" height="400" src="https://github.com/ethan-sui/AI-algorithm-engineer-knowledge/blob/main/image/teacher-student_network.png"/></div>
 
 ### 高效网络结构
 ### 参数量化
