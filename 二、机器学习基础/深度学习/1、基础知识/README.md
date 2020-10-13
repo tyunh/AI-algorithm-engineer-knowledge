@@ -51,7 +51,7 @@
 
 6、ELU(指数线性单元)
 
-<div align=center><img width="300" height="220" src="https://github.com/ethan-sui/AI-algorithm-engineer-knowledge/blob/main/image/ELU.png"/></div>
+<div align=center><img width="800" height="200" src="https://github.com/ethan-sui/AI-algorithm-engineer-knowledge/blob/main/image/ELU.png"/></div>
 
 &emsp;&emsp;我们发现前面的三个ReLU在0处是不可导的，所以ELU又在PReLU的基础上进行改进解决这个问题
 
