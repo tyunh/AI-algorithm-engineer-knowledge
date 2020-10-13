@@ -6,7 +6,7 @@
 - 常见的激活函数
 
 1、Sigmoid
-<div align=center><img width="500" height="400" src="https://github.com/ethan-sui/AI-algorithm-engineer-knowledge/blob/main/image/Sigmoid.png"/></div>
+<div align=center><img width="400" height="300" src="https://github.com/ethan-sui/AI-algorithm-engineer-knowledge/blob/main/image/Sigmoid.png"/></div>
 
 
 &emsp;&emsp;表达式：$sigmoid(x)\frac{1}{1+e^{-x}}$
