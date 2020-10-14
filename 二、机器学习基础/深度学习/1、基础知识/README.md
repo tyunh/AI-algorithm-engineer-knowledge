@@ -78,7 +78,7 @@
 ### 2、损失函数
 
 1、0-1损失函数
-<div align=center><img width="800" height="130" src="https://github.com/ethan-sui/AI-algorithm-engineer-knowledge/blob/main/image/0-1_lossfunction.png"/></div>
+<div align=center><img width="900" height="100" src="https://github.com/ethan-sui/AI-algorithm-engineer-knowledge/blob/main/image/0-1_lossfunction.png"/></div>
 
 2、绝对值损失函数
 
