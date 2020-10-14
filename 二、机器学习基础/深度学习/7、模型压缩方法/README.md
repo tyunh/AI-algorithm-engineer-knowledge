@@ -13,11 +13,15 @@
 ### 3、高效网络结构
 - 深度可分离卷积(MobileNet)
 先通道进行卷积(depthwise)再进行点卷积(pointwise)
-参数量，计算量皆为正常卷积的$\frac{1}{N}+\frac{1}{D_{k}^2}$，其中$N$是输出通道，$D_{k}是卷积核尺寸$
+参数量，计算量皆为正常卷积的$\frac{1}{N}+\frac{1}{D_{k}^2}$，其中$N$是输出通道，$D_{k}$是卷积核尺寸
 
 - 分组卷积(ShuffleNet)
 分组卷积的极端就是深度可分离卷积，因为1×1卷积的计算消耗还是比较大的，MobileNet占到了94.86%，所以对1×1卷积进行一个组操作，然后加上channel shuffle，来达到MobileNet中同样的效果
 ### 4、参数量化
-- 使用更少的位来储存
+- 使用更少的位来储存参数，模型尺寸会变小
+
+- 把参数按区间分类，然后用哈希表来存
+<div align=center><img width="500" height="300" src="https://github.com/ethan-sui/AI-algorithm-engineer-knowledge/blob/main/image/model_compression00.jpg"/></div>
+
 ### 5、低秩转化
 ### 6、神经架构搜索
