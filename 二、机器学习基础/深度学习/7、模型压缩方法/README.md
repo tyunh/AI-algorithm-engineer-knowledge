@@ -21,7 +21,7 @@
 - 使用更少的位来储存参数，模型尺寸会变小
 
 - 把参数按区间分类，然后用哈希表来存
-<div align=center><img width="500" height="300" src="https://github.com/ethan-sui/AI-algorithm-engineer-knowledge/blob/main/image/model_compression00.jpg"/></div>
+<div align=center><img width="600" height="180" src="https://github.com/ethan-sui/AI-algorithm-engineer-knowledge/blob/main/image/model_compression00.jpg"/></div>
 
 ### 5、低秩转化
 ### 6、神经架构搜索
