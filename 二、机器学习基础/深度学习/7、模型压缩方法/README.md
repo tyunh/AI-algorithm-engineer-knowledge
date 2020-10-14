@@ -24,4 +24,6 @@
 <div align=center><img width="600" height="180" src="https://github.com/ethan-sui/AI-algorithm-engineer-knowledge/blob/main/image/model_compression00.jpg"/></div>
 
 ### 5、低秩转化
+- 减少权值参数
 ### 6、神经架构搜索
+- 从搜索空间中按某种指标搜索出最优的网络
