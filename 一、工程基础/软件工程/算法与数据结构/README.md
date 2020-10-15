@@ -28,7 +28,7 @@
 &emsp;&emsp;②、重新排列数列，小于基准的元素放在左边，大于的放在右边，基准位于两个子数列的中间
 
 &emsp;&emsp;③、递归的对两个子数列进行①、②步骤
-<div align=center><img width="250" height="200" src="https://github.com/ethan-sui/AI-algorithm-engineer-knowledge/blob/main/image/Quick_Sort1.png"/></div>
+<div align=center><img width="250" height="300" src="https://github.com/ethan-sui/AI-algorithm-engineer-knowledge/blob/main/image/Quick_Sort1.png"/></div>
 
 2、插入排序
 - 插入排序
