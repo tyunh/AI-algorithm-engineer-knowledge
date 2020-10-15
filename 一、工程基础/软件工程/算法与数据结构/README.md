@@ -15,7 +15,7 @@
 - 快速排序
 
 &emsp;&emsp;快速排序是冒泡排序的进阶，采用了分治法的思想，将数列分成两个子数列，然后对子数列重复分治法的思想，直至完成排序
-<div align=center><img width="500" height="200" src="https://github.com/ethan-sui/AI-algorithm-engineer-knowledge/blob/main/image/Quick_Sort0.png"/></div>
+<div align=center><img width="250" height="200" src="https://github.com/ethan-sui/AI-algorithm-engineer-knowledge/blob/main/image/Quick_Sort0.png"/></div>
 
 &emsp;&emsp;算法步骤：
 
@@ -24,7 +24,7 @@
 &emsp;&emsp;②、重新排列数列，小于基准的元素放在左边，大于的放在右边，基准位于两个子数列的中间
 
 &emsp;&emsp;③、递归的对两个子数列进行①、②步骤
-<div align=center><img width="500" height="200" src="https://github.com/ethan-sui/AI-algorithm-engineer-knowledge/blob/main/image/Quick_Sort1.png"/></div>
+<div align=center><img width="250" height="200" src="https://github.com/ethan-sui/AI-algorithm-engineer-knowledge/blob/main/image/Quick_Sort1.png"/></div>
 
 2、插入排序
 - 插入排序
