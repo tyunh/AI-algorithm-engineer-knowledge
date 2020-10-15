@@ -3,7 +3,7 @@
 &emsp;&emsp;代码实现见sort_algorithm.ipynb文件
 
 &emsp;&emsp;排序算法一览：
-<div align=center><img width="500" height="200" src="https://github.com/ethan-sui/AI-algorithm-engineer-knowledge/blob/main/image/Sorting_Algorithm_Table.png"/></div>
+<div align=center><img width="800" height="500" src="https://github.com/ethan-sui/AI-algorithm-engineer-knowledge/blob/main/image/Sorting_Algorithm_Table.png"/></div>
 
 ### 比较类排序
 通过比较来决定元素间的相对次序，由于其时间复杂度不能突破O(nlogn)，因此也称为非线性时间比较类排序
