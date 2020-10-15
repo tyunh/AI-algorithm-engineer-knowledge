@@ -1,11 +1,3 @@
-
-
-
-
-
-
-
-
 # 算法与数据结构
 ## 排序算法
 &emsp;&emsp;代码实现见sort_algorithm.ipynb文件
@@ -19,7 +11,7 @@
 &emsp;&emsp;①、比较每一对相邻的元素，从开头到结尾，如果第一个比第二个大，就交换它们两个，这样在最后的元素是最大的数
 
 &emsp;&emsp;②、除了最后面的已经排序好的，对剩下的元素继续进行①步骤，直到排序完成
-<div align=center><img width="500" height="400" src="https://github.com/ethan-sui/AI-algorithm-engineer-knowledge/blob/main/image/Bubble_Sort.gif"/></div>
+<div align=center><img width="500" height="200" src="https://github.com/ethan-sui/AI-algorithm-engineer-knowledge/blob/main/image/Bubble_Sort.gif"/></div>
 - 快速排序
 
 快速排序是冒泡排序的进阶，采用了分治法的思想，将数列分成两个子数列，然后对子数列重复分治法的思想，直至完成排序
