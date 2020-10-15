@@ -5,7 +5,7 @@
 &emsp;&emsp;排序算法一览：
 <div align=center><img width="800" height="500" src="https://github.com/ethan-sui/AI-algorithm-engineer-knowledge/blob/main/image/Sorting_Algorithm_Table.png"/></div>
 
-### 比较类排序
+### A、比较类排序
 通过比较来决定元素间的相对次序，由于其时间复杂度不能突破O(nlogn)，因此也称为非线性时间比较类排序
 1、交换排序
 - 冒泡排序
@@ -81,7 +81,7 @@
 &emsp;&emsp;③、将两个排序好的子序列合并成一个最终的排序序列
 
 
-### 非比较排序
+### B、非比较排序
 
 &emsp;&emsp;不通过比较来决定元素间的相对次序，它可以突破基于比较排序的时间下界，以线性时间运行，因此也称为线性时间非比较类排序
 
