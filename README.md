@@ -1,8 +1,6 @@
 # AI-algorithm-engineer-knowledge
 <font color=Fuchsia> ***努力成为一名合格有水平的AI算法工程师*** </font>
 
-<font color=Fuchsia> ***持续更新...*** </font>
-
 ![AI](https://github.com/ethan-sui/AI-algorithm-engineer-knowledge/blob/main/image/AI.png)
 
 ## 一、工程基础
